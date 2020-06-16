@@ -1,4 +1,4 @@
-<h1 align="center">Banner Rotativo</h1>
+# Banner Rotativo
 <h1>
     <img src="Hnet-banner.gif">
 </h1>
